@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.mycompany.myapp"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "hehe",
+        "packageName": "com.mycompany.myapp",
+        "packageFolder": "com/mycompany/myapp",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NjFhYmExOWVmMGJkYTdhMDVhYzY0ZjcxNjY1Mzg3NmVjMzBkNDcxODQyOTc5OTRmMWYyYjI1YjNjYTJlODUyMjFjODhlZjJlMmYyODFiZTc3NDI5YTY4ZjE2NzU2ODk2MGY5MmYyMTBlMGJlYjRmYmM3NDQ3M2E4YWU0ZjQxMzI=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
